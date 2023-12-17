@@ -1,17 +1,17 @@
 Config.DiscordPresence = {
-    AppId = 1071240932495736882,
+    AppId = 01234589,
     Icon = "logo",
     SmallIcon = "fivem",
-    Text = "PhoenixRP",
-    SmallText = "UK FiveM Roleplay Server",
+    Text = "CAKE",
+    SmallText = "Roleplay Server",
     Buttons = {
         [0] = { 
             Name = 'Play',
-            URL = 'fivem://connect/phoenix-rp.co.uk'
+            URL = 'fivem://connect/serverid'
         },
         [1] = { 
             Name = 'Join Discord',
-            URL = 'https://discord.gg/phoenixrp'
+            URL = 'https://discord.gg/discordid'
         },
     },
     JobEmoji = {
